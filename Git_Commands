@@ -1,0 +1,50 @@
+git init
+git clone
+git config
+git status
+git add
+git commit
+git log
+git diff
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git fetch
+git stash
+git tag
+git show
+git reset
+git rm
+git mv
+git rebase
+git blame
+git bisect
+git clean
+git cherry-pick
+git revert
+git archive
+git submodule
+git log --graph
+git reflog
+git gc
+git fsck
+git shortlog
+git describe
+git grep
+git worktree
+git repack
+git update-index
+git bundle
+git commit --amend
+git checkout -b
+git diff --staged
+git branch -d
+git branch -D
+git merge --no-ff
+git cherry
+git apply
+git format-patch
+git send-email
