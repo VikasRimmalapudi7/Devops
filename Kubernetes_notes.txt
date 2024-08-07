@@ -1,0 +1,8 @@
+KUBERNETES-Components:
+   1) kube-api : https://medium.com/devops-technical-notes-and-manuals/kube-api-server-how-it-communicates-with-other-kubernetes-cluster-components-cc60b041163d
+   2) etcd : https://medium.com/nerd-for-tech/etcd-the-easy-way-4c01e243f285
+   3) scheduling : https://romanglushach.medium.com/kubernetes-scheduling-understanding-the-math-behind-the-magic-2305b57d45b1
+   4) controller : https://able8.medium.com/kubernetes-controllers-overview-b6ec086c1fb
+   5) kubelet: https://kdmalviyan.medium.com/understanding-kubernetes-kubelet-a-deep-dive-into-the-engine-of-kubernetes-node-management-6b3e401bff17
+   6) kube-proxy : https://medium.com/@amroessameldin/kube-proxy-what-is-it-and-how-it-works-6def85d9bc8f
+   
